@@ -20,7 +20,7 @@ Este proyecto tiene como objetivo [describir el objetivo principal del proyecto]
 
 ## Instalación
 
-1. Clona el repositorio: `git clone [URL del repositorio]`
+1. Clona el  `git clone [URL del repositorio]`
 2. Navega al directorio del proyecto: `cd [nombre del proyecto]`
 3. Instala las dependencias: `[comando de instalación]`
 
